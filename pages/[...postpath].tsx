@@ -17,7 +17,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://i.gal/iQRqb`
+					`https://mantapsekaly.eu.org/ZATBESI/ZonaNgelid`
 				}`,
 			},
 		};
